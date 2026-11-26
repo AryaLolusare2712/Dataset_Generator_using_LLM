@@ -1,5 +1,9 @@
 # 🧠 Dataset_Generator_using_LLM
 
+## Project contribution
+
+Makes synthetic-data generation more accessible for prototyping, education, model testing, and data-analysis experiments.
+
 ## Architecture
 
 ```mermaid
