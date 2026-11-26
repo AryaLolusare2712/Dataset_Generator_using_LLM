@@ -1,5 +1,15 @@
 # 🧠 Dataset_Generator_using_LLM
 
+## Architecture
+
+```mermaid
+flowchart LR
+  U[Dataset requirements] --> UI[Generator interface]
+  UI --> L[LLM generation]
+  L --> V[Validation and formatting]
+  V --> D[Synthetic dataset]
+```
+
 A flexible and user-friendly tool to create synthetic datasets for machine learning models, data analysis, and educational purposes.\
 Perfect for testing algorithms, training ML models, or demonstrating concepts.
 
